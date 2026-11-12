@@ -1,2 +1,2 @@
---platform=linux/amd64 fluent/fluentd-kubernetes-daemonset:v1.19.4-debian-s3-1
+--platform=linux/amd64  ghcr.io/metacubex/metacubexd:latest
 
